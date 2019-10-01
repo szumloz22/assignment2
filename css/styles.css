@@ -1,9 +1,20 @@
 body {
-    color:rgb(89, 82, 169);
+    color: rgb(89, 82, 169);
     background-color: rgba(208, 192, 157, 0.51);
     font-family: "helvetica";
 }
 
-h2 {
-    color:rgb(89, 82, 169);
+.red-span {
+    color: red;
+}
+
+.centered {
+    padding: 10px 10px 10px 10px;
+    border: 3px dashed;
+    margin: 10px auto 10px auto;
+    width: 80%;
+}
+
+.bold {
+    font-style: "bold",
 }
