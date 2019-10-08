@@ -15,6 +15,32 @@ body {
     width: 80%;
 }
 
-.bold {
-    font-style: "bold",
+body ol {
+    background-color: lavender
+}
+
+body ul {
+    background-color: lavender
+}
+
+#content p a {
+    color: mediumpurple;
+    font-family:cursive;
+}
+
+h1,h2 {
+    color: mediumpurple;
+    font-family:cursive;
+}
+
+.nazareth-purple {
+    color: rgb(89, 82, 169);
+}
+
+.nazareth-font-big {
+    font-size: 38px;
+}
+
+.nazareth-font-heavy {
+    font-weight: 900;
 }
