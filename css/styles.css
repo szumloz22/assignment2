@@ -15,22 +15,19 @@ body {
     width: 80%;
 }
 
-body ol {
-    background-color: lavender
-}
-
-body ul {
+body ol, body ul {
     background-color: lavender
 }
 
 #content p a {
     color: mediumpurple;
-    font-family:cursive;
+    font-family: cursive;
 }
 
-h1,h2 {
+h1,
+h2 {
     color: mediumpurple;
-    font-family:cursive;
+    font-family: cursive;
 }
 
 .nazareth-purple {
@@ -43,4 +40,9 @@ h1,h2 {
 
 .nazareth-font-heavy {
     font-weight: 900;
+}
+
+li {
+
+    color: mediumpurple;
 }
